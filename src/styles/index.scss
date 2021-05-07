@@ -11,3 +11,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+p {
+    color: orange;
+}
+
+.btn{
+    background-color: rebeccapurple;
+    border: none;
+    color: white;
+}
+
+.btn:hover{
+ background-color: rgb(147, 90, 204);
+}
